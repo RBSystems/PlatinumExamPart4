@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Data Store", "XML Data Store\XML Data Store.csproj", "{256FF91C-C0AB-49CE-B583-68D2040F6909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{256FF91C-C0AB-49CE-B583-68D2040F6909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256FF91C-C0AB-49CE-B583-68D2040F6909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256FF91C-C0AB-49CE-B583-68D2040F6909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256FF91C-C0AB-49CE-B583-68D2040F6909}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

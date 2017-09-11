@@ -1,0 +1,12 @@
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\bin\XML Data Store.dll
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\bin\XML Data Store.pdb
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\bin\SimplSharpCustomAttributesInterface.dll
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\bin\SimplSharpHelperInterface.dll
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\obj\Debug\XML Data Store.dll
+C:\Users\Darren\Documents\Visual Studio 2008\Projects\XML Data Store\XML Data Store\obj\Debug\XML Data Store.pdb
+D:\OneDrive\Visual Studio 2008\Projects\_Testing\XML Data Store\XML Data Store\obj\Debug\ResolveAssemblyReference.cache
+D:\OneDrive\Visual Studio 2008\Projects\_Testing\XML Data Store\XML Data Store\obj\Debug\XML Data Store.dll
+D:\OneDrive\Visual Studio 2008\Projects\_Testing\XML Data Store\XML Data Store\bin\XML Data Store.dll
+D:\OneDrive\Visual Studio 2008\Projects\_Testing\XML Data Store\XML Data Store\bin\XML Data Store.pdb
+D:\OneDrive\Visual Studio 2008\Projects\_Testing\XML Data Store\XML Data Store\obj\Debug\XML Data Store.pdb
